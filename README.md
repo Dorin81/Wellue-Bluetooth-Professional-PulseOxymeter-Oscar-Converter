@@ -7,9 +7,9 @@ This project is a Python script that converts the CSV export from the Wellue Blu
 - Allows users to overlay pulse and blood oxygen data with the Resmed Airsense 10 data
 
 ### Procedure to convert and import data into OSCAR
-Export SPO session data as .csv from ViHealth on mobile
-Convert with this script
-In Oscar, select Data -> Import (F7) -> import from a file -> select the .dat file output of this script
+- Export SPO session data as .csv from ViHealth on mobile
+- Convert with this script
+- In Oscar, select Data -> Import (F7) -> import from a file -> select the .dat file output of this script
 
 ### Technology Stack
 - Python
